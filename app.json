@@ -7,27 +7,27 @@
         "shortner"
     ],
     "website": "https://github.com/Manjeetxtyy/newpdiskuploder4oct",
-    "repository": "https://github.com/Manjeetxtyy/newpdiskuploder4oct",
+    "repository": "https://github.com/umang169/NewPdiskConveter",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
-            "value": "1900092568:AAGkEP0-UGcefBiC7oIyHlcNl_wHvnMoxtU"
+            "value": "2027076313:AAE-FMFWW5Tr_BL2jUrTLdDHcYPQkR7EsHA"
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "3310601"
+            "value": "8915276"
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ad2c76a95f2f3decb60024bb918d20c6"
+            "value": "73611cfa5e866a359b325ececf4eb1ca"
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "0306635c1e2ed7ff9a4381ae2411b05f"
+            "value": "89b3e9e8171de4fe21a3b56f16f8573c"
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
-            "value": "Backup_Hub"
+            "value": "Backup_MovieHub"
         },
         "THUMB_URL": {
             "description": "Enter the permanent thumbnail image url can use this @HK_telegraph_BOT",
